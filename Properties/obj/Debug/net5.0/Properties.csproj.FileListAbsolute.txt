@@ -1,0 +1,16 @@
+E:\Banger Raju\PropertiesExamples\Properties\bin\Debug\net5.0\Properties.exe
+E:\Banger Raju\PropertiesExamples\Properties\bin\Debug\net5.0\Properties.deps.json
+E:\Banger Raju\PropertiesExamples\Properties\bin\Debug\net5.0\Properties.runtimeconfig.json
+E:\Banger Raju\PropertiesExamples\Properties\bin\Debug\net5.0\Properties.runtimeconfig.dev.json
+E:\Banger Raju\PropertiesExamples\Properties\bin\Debug\net5.0\Properties.dll
+E:\Banger Raju\PropertiesExamples\Properties\bin\Debug\net5.0\ref\Properties.dll
+E:\Banger Raju\PropertiesExamples\Properties\bin\Debug\net5.0\Properties.pdb
+E:\Banger Raju\PropertiesExamples\Properties\obj\Debug\net5.0\Properties.csproj.AssemblyReference.cache
+E:\Banger Raju\PropertiesExamples\Properties\obj\Debug\net5.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+E:\Banger Raju\PropertiesExamples\Properties\obj\Debug\net5.0\Properties.AssemblyInfoInputs.cache
+E:\Banger Raju\PropertiesExamples\Properties\obj\Debug\net5.0\Properties.AssemblyInfo.cs
+E:\Banger Raju\PropertiesExamples\Properties\obj\Debug\net5.0\Properties.csproj.CoreCompileInputs.cache
+E:\Banger Raju\PropertiesExamples\Properties\obj\Debug\net5.0\Properties.dll
+E:\Banger Raju\PropertiesExamples\Properties\obj\Debug\net5.0\ref\Properties.dll
+E:\Banger Raju\PropertiesExamples\Properties\obj\Debug\net5.0\Properties.pdb
+E:\Banger Raju\PropertiesExamples\Properties\obj\Debug\net5.0\Properties.genruntimeconfig.cache
